@@ -1,0 +1,2 @@
+export(test_func1)
+export(test_func2)

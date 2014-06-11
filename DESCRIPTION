@@ -1,0 +1,12 @@
+Package: testpackage
+Title: testing
+Description: testing devtools create function
+Version: 0.1
+Authors: david
+Depends:
+    R (>= 3.0.2)
+License: GPL
+LazyData: true
+Collate:
+    'funcs.R'
+    'testpackage-package.r'
